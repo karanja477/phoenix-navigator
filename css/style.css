@@ -1,0 +1,29 @@
+.large{
+    display: none;
+    background-color:coral;
+    /* color:white; */
+  }
+  .medium{
+    display: none;
+    background-color:coral;
+    /* color:transparent; */
+  }
+  .small{
+    display: none;
+    background-color:coral;
+    /* color:transparent; */
+  }
+  body{
+      background-color: darkgray;
+  }
+  /* #buffalo{ */
+    display: none;
+}
+
+#development{
+    display: none;
+}
+#product{
+    display: none;
+
+}
