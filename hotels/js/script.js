@@ -1,0 +1,130 @@
+$(document).ready(function(){
+$("#img-hidden1").click(function(){
+    $("#img-hidden1").slideDown('1500').hide('1000');
+    $("#hide1").show('1500');
+});
+$("#hide1").click(function(){
+    $("#hide1").slideUp('1500');
+    $("#img-hidden1").slideDown('1500');
+});
+$("#img-hidden2").click(function(){
+    $("#img-hidden2").slideDown('1500').hide('1000');
+    $("#hide2").show('1500');
+});
+$("#hide2").click(function(){
+    $("#hide2").slideUp('1500');
+    $("#img-hidden2").slideDown('1500');
+});
+$("#img-hidden3").click(function(){
+    $("#img-hidden3").slideDown('1500').hide('1000');
+    $("#hide3").show('1500');
+});
+$("#hide3").click(function(){
+    $("#hide3").slideUp('1500');
+    $("#img-hidden3").slideDown('1500');
+});
+$("#img-hidden4").click(function(){
+    $("#img-hidden4").slideDown('1500').hide('1000');
+    $("#hide4").show('1500');
+});
+$("#hide4").click(function(){
+    $("#hide4").slideUp('1500');
+    $("#img-hidden4").slideDown('1500');
+});
+$("#img-hidden5").click(function(){
+    $("#img-hidden5").slideDown('1500').hide('1000');
+    $("#hide5").show('1500');
+});
+$("#hide5").click(function(){
+    $("#hide5").slideUp('1500');
+    $("#img-hidden5").slideDown('1500');
+});
+$("#img-hidden6").click(function(){
+    $("#img-hidden6").slideDown('1500').hide('1000');
+    $("#hide6").show('1500');
+});
+$("#hide6").click(function(){
+    $("#hide6").slideUp('1500');
+    $("#img-hidden6").slideDown('1500');
+});
+$("#img-hidden7").click(function(){
+    $("#img-hidden7").slideDown('1500').hide('1000');
+    $("#hide7").show('1500');
+});
+$("#hide7").click(function(){
+    $("#hide7").slideUp('1500');
+    $("#img-hidden7").slideDown('1500');
+});
+$("#img-hidden8").click(function(){
+    $("#img-hidden8").slideDown('1500').hide('1000');
+    $("#hide8").show('1500');
+});
+$("#hide8").click(function(){
+    $("#hide8").slideUp('1500');
+    $("#img-hidden8").slideDown('1500');
+});
+$("#img-hidden9").click(function(){
+    $("#img-hidden9").slideDown('1500').hide('1000');
+    $("#hide9").show('1500');
+});
+$("#hide9").click(function(){
+    $("#hide9").slideUp('1500');
+    $("#img-hidden9").slideDown('1500');
+});
+$("#img-hidden10").click(function(){
+    $("#img-hidden10").slideDown('1500').hide('1000');
+    $("#hide10").show('1500');
+});
+$("#hide10").click(function(){
+    $("#hide10").slideUp('1500');
+    $("#img-hidden10").slideDown('1500');
+});
+$("#img-hidden11").click(function(){
+    $("#img-hidden11").slideDown('1500').hide('1000');
+    $("#hide11").show('1500');
+});
+$("#hide11").click(function(){
+    $("#hide11").slideUp('1500');
+    $("#img-hidden11").slideDown('1500');
+});
+$("#img-hidden12").click(function(){
+    $("#img-hidden12").slideDown('1500').hide('1000');
+    $("#hide12").show('1500');
+});
+$("#hide12").click(function(){
+    $("#hide12").slideUp('1500');
+    $("#img-hidden12").slideDown('1500');
+});
+$("#img-hidden13").click(function(){
+    $("#img-hidden13").slideDown('1500').hide('1000');
+    $("#hide13").show('1500');
+});
+$("#hide13").click(function(){
+    $("#hide13").slideUp('1500');
+    $("#img-hidden13").slideDown('1500');
+});
+$("#img-hidden14").click(function(){
+    $("#img-hidden14").slideDown('1500').hide('1000');
+    $("#hide14").show('1500');
+});
+$("#hide14").click(function(){
+    $("#hide14").slideUp('1500');
+    $("#img-hidden14").slideDown('1500');
+});
+$("#img-hidden15").click(function(){
+    $("#img-hidden15").slideDown('1500').hide('1000');
+    $("#hide15").show('1500');
+});
+$("#hide15").click(function(){
+    $("#hide15").slideUp('1500');
+    $("#img-hidden15").slideDown('1500');
+});
+$("#img-hidden16").click(function(){
+    $("#img-hidden16").slideDown('1500').hide('1000');
+    $("#hide16").show('1500');
+});
+$("#hide16").click(function(){
+    $("#hide16").slideUp('1500');
+    $("#img-hidden16").slideDown('1500');
+});
+})
