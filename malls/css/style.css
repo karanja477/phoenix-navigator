@@ -4,11 +4,14 @@ h3 {
   font-size: medium;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+
+body{
+  background-color: lightgray;
+}
 body {
-  /* background-image: url(../images/2rivback.jpeg); */
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: serif;
   font-size: medium;
 }
