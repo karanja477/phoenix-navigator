@@ -45,7 +45,7 @@ $(document).ready(function(){
     $("#haandi-image").slideDown('1500').hide('1000');
     $("#haandi-text").show('1500');
   });
-  $("#haandit-text").click(function(){
+  $("#haandi-text").click(function(){
     $("#haandi-text").slideUp('1500');
     $("#haandi-image").slideDown('1500');
   });
@@ -95,7 +95,7 @@ $(document).ready(function(){
 });
 });
 $(document).ready(function(){
-  $("#The-moorings").click(function(){
+  $("#The-moorings-image").click(function(){
     $("#The-moorings-image").slideDown('1500').hide('1000');
     $("#The-moorings-text").show('1500');
   });
@@ -116,13 +116,13 @@ $(document).ready(function(){
 }); 
   
 $(document).ready(function(){
-  $("#Yuls-image").click(function(){
-    $("#Yuls-image").slideDown('1500').hide('1000');
-    $("#Yuls-text").show('1500');
+  $("#Yuls-Restaurant-image").click(function(){
+    $("#Yuls-Restaurant-image").slideDown('1500').hide('1000');
+    $("#Yuls-Restaurant-text").show('1500');
   });
-  $("#Yuls-text").click(function(){
-    $("#Yuls-text").slideUp('1500');
-    $("#Yuls-image").slideDown('1500');
+  $("#Yuls-Restaurant-text").click(function(){
+    $("#Yuls-Restaurant-text").slideUp('1500');
+    $("#Yuls-Restaurant-image").slideDown('1500');
 });
 }); 
   
