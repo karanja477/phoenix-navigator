@@ -1,10 +1,11 @@
-h2{
-
+h2 {
     color: brown;
     text-align: center;
     font-size: medium;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-body{
-    background-color: lightgray;
+body {
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
 }
