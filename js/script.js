@@ -1,33 +1,143 @@
 $(document).ready(function(){
-    $("#biashara-street-image").click(function(){
-      $("#biashara-street-image").slideDown('1500').hide('1000');
-      $("#biashara").show('1500');
-    });
-    $("#biashara").click(function(){
-      $("#biashara").slideUp('1500');
-      $("#biashara-street-image").slideDown('1500');
-    });
+  $("#fogo-image").click(function(){
+    $("#fogo-image").slideDown('1500').hide('1000');
+    $("#fogo-text").show('1500');
   });
-  
-  $(document).ready(function(){
-    $("#city-market-image").click(function(){
-      $("#city-market-image").slideDown('1500').hide('1000');
-      $("#city").show('1500');
-    });
-    $("#city").click(function(){
-      $("#city").slideUp('1500');
-      $("#city-market-image").slideDown('1500');
-    });
+  $("#fogo-text").click(function(){
+    $("#fogo-text").slideUp('1500');
+    $("#fogo-image").slideDown('1500');
   });
-  
-  $(document).ready(function(){
-    $("#maasai-market-image").click(function(){
-      $("#maasai-market-image").slideDown('1500').hide('1000');
-      $("#maasai").show('1500');
-    });
-    $("#maasai").click(function(){
-      $("#maasai").slideUp('1500');
-      $("#maasai-market-image").slideDown('1500');
-    });
+});
+$(document).ready(function(){
+  $("#about-image").click(function(){
+    $("#about-image").slideDown('1500').hide('1000');
+    $("#about-text").show('1500');
   });
+  $("#about-text").click(function(){
+    $("#about-text").slideUp('1500');
+    $("#about-image").slideDown('1500');
+  });
+});
+$(document).ready(function(){
+  $("#carnivore-image").click(function(){
+    $("#carnivore-image").slideDown('1500').hide('1000');
+    $("#carnivore-text").show('1500');
+  });
+  $("#carnivore-text").click(function(){
+    $("#carnivore-text").slideUp('1500');
+    $("#carnivore-image").slideDown('1500');
+  });
+});
+
+$(document).ready(function(){
+  $("#duke-image").click(function(){
+    $("#duke-image").slideDown('1500').hide('1000');
+    $("#duke-text").show('1500');
+  });
+  $("#duke-text").click(function(){
+    $("#duke-text").slideUp('1500');
+    $("#duke-image").slideDown('1500');
+  });
+});
+
+$(document).ready(function(){
+  $("#haandi-image").click(function(){
+    $("#haandi-image").slideDown('1500').hide('1000');
+    $("#haandi-text").show('1500');
+  });
+  $("#haandit-text").click(function(){
+    $("#haandi-text").slideUp('1500');
+    $("#haandi-image").slideDown('1500');
+  });
+});
+
   
+
+    $(document).ready(function(){
+      $("#la-marina-image").click(function(){
+        $("#la-marina-image").slideDown('1500').hide('1000');
+        $("#la- marina-text").show('1500');
+      });
+      $("#la-marina-text").click(function(){
+        $("#la-marina-text").slideUp('1500');
+        $("#la-marina-image").slideDown('1500');
+      });
+    });
+
+    $(document).ready(function(){
+      $("#seven-image").click(function(){
+        $("#seven-image").slideDown('1500').hide('1000');
+        $("#seven-text").show('1500');
+      });
+      $("#seven-text").click(function(){
+        $("#seven-text").slideUp('1500');
+        $("#seven-image").slideDown('1500');
+      });
+    });
+    $(document).ready(function(){
+      $("#tallisman-image").click(function(){
+        $("#tallisman-image").slideDown('1500').hide('1000');
+        $("#tallisman-text").show('1500');
+      });
+      $("#tallisman-text").click(function(){
+        $("#tallisman-text").slideUp('1500');
+        $("#tallisman-image").slideDown('1500');
+   });
+ });
+ $(document).ready(function(){
+  $("#tamarind-image").click(function(){
+    $("#tamarind-image").slideDown('1500').hide('1000');
+    $("#tamarind-text").show('1500');
+  });
+  $("#tamarind-text").click(function(){
+    $("#tamarind-text").slideUp('1500');
+    $("#tamarind-image").slideDown('1500');
+});
+});
+$(document).ready(function(){
+  $("#The-moorings").click(function(){
+    $("#The-moorings-image").slideDown('1500').hide('1000');
+    $("#The-moorings-text").show('1500');
+  });
+  $("#The-moorings-text").click(function(){
+    $("#The-moorings-text").slideUp('1500');
+    $("#The-moorings-image").slideDown('1500');
+});
+});
+$(document).ready(function(){
+  $("#Tilapia-Beach-image").click(function(){
+    $("#Tilapia-Beach-image").slideDown('1500').hide('1000');
+    $("#Tilapia-Beach-text").show('1500');
+  });
+  $("#Tilapia-Beach-text").click(function(){
+    $("#Tilapia-Beach-text").slideUp('1500');
+    $("#Tilapia-Beach-image").slideDown('1500');
+});
+}); 
+  
+$(document).ready(function(){
+  $("#Yuls-image").click(function(){
+    $("#Yuls-image").slideDown('1500').hide('1000');
+    $("#Yuls-text").show('1500');
+  });
+  $("#Yuls-text").click(function(){
+    $("#Yuls-text").slideUp('1500');
+    $("#Yuls-image").slideDown('1500');
+});
+}); 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
