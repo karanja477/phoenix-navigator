@@ -20,17 +20,17 @@ $(document).ready(function(){
         $("#buffalo").slideDown('1500');
     });
 
-    $("#garden").click(function(){
-      $("#garden").slideDown('1500').hide('1000');
-      $("#GARDEN").show('1500');
+    $("#garden-image").click(function(){
+      $("#garden-image").slideDown('1500').hide('1000');
+      $("#garden").show('1500');
   });
-  $("#GARDEN").click(function(){
+  $("#garden").click(function(){
       $("#garden").slideUp('1500');
-      $("#garden").slideDown('1500');
+      $("#garden-image").slideDown('1500');
   });
 
-  $("#junctin").click(function(){
-    $("#JUNCTION").slideDown('1500').hide('1000');
+  $("#junction").click(function(){
+    $("#junction").slideDown('1500').hide('1000');
     $("#JUNCTION").show('1500');
 });
 $("#JUNCTION").click(function(){
@@ -38,5 +38,64 @@ $("#JUNCTION").click(function(){
     $("#junction").slideDown('1500');
 });
 
+$("#nyali").click(function(){
+  $("#nyali").slideDown('1500').hide('1000');
+  $("#NYALI").show('1500');
 });
+$("#NYALI").click(function(){
+  $("#NYALI").slideUp('1500');
+  $("#nyali").slideDown('1500');
+});
+$("#rupa").click(function(){
+  $("#rupa").slideUp('1500');
+  $("#RUPA").slideDown('1500');
+});
+
+$("#RUPA").click(function(){
+$("#RUPA").slideDown('1500').hide('1000');
+$("#rupa").show('1500');
+});
+$("#two-rivers").click(function(){
+  $("#two-rivers").slideUp('1500');
+  $("#TWO-RIVERS").slideDown('1500');
+});
+
+$("#TWO-RIVERS").click(function(){
+$("#TWO-RIVERS").slideDown('1500').hide('1000');
+$("#two-rivers").show('1500');
+});
+
+$("#greensq").click(function(){
+  $("#greensq").slideUp('1500');
+  $("#GREENSQ").slideDown('1500');
+});
+
+$("#GREENSQ").click(function(){
+$("#GREENSQ").slideDown('1500').hide('1000');
+$("#greensq").show('1500');
+});
+
+$("#maasai").click(function(){
+  $("#maasai").slideUp('1500');
+  $("#MAASAI").slideDown('1500');
+});
+
+$("#MAASAI").click(function(){
+$("#MAASAI").slideDown('1500').hide('1000');
+$("#maasai").show('1500');
+});
+
+
+$("#the-hub").click(function(){
+  $("#the-hub").slideDown('1500').hide('1000');
+  $("#THE-HUB").show('1500');
+});
+$("#THE-HUB").click(function(){
+  $("#THE-HUB").slideUp('1500');
+  $("#the-hub").slideDown('1500');
+});
+
+});
+
+
   
